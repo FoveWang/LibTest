@@ -1,0 +1,16 @@
+PODS:
+  - PrivatePods1 (0.1.0)
+
+DEPENDENCIES:
+  - PrivatePods1 (from `Lib/PrivatePods1`)
+
+EXTERNAL SOURCES:
+  PrivatePods1:
+    :path: Lib/PrivatePods1
+
+SPEC CHECKSUMS:
+  PrivatePods1: 15fefa3a67635ec3e0b57eb692cdfa7e3eb0c326
+
+PODFILE CHECKSUM: defc97537397c76be44cd53390c2cf36d22d1850
+
+COCOAPODS: 1.10.0
